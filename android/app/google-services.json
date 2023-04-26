@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951887900645",
+    "project_id": "loginauth-a780b",
+    "storage_bucket": "loginauth-a780b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951887900645:android:ec8f7c22c24a118090490c",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951887900645-rnoincso26rgri4fhn5blfsfkpekstgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOBUIES0v7KK4M8U5RYHqdRUqoVgsCho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951887900645-rnoincso26rgri4fhn5blfsfkpekstgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
